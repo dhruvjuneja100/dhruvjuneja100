@@ -26,7 +26,6 @@
 ### 🏆 Achievements
 
 - 🎯 **LeetCode:** Solved 180+ DSA problems.
-- 🏅 **Hackathons:** Top 50 Team — DAYZERO Hackathon.
 - ☁️ **Certifications:** 
   - AWS Certified Cloud Practitioner
   - SAP Certified Generative AI Developer
@@ -52,10 +51,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvjunejalk&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
-### 🐍 Contribution Graph
+
+### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dhruvjunejalk/dhruvjunejalk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvjunejalk&theme=tokyonight&area=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
