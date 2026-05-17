@@ -1,80 +1,121 @@
-<h1 align="center">Hi 👋, I'm Dhruv</h1>
+<div align="center">
 
-<h3 align="center">Software Engineering • AI/ML • Backend Development</h3>
+```
+██████╗ ██╗  ██╗██████╗ ██╗   ██╗██╗   ██╗
+██╔══██╗██║  ██║██╔══██╗██║   ██║██║   ██║
+██║  ██║███████║██████╔╝██║   ██║██║   ██║
+██║  ██║██╔══██║██╔══██╗██║   ██║╚██╗ ██╔╝
+██████╔╝██║  ██║██║  ██║╚██████╔╝ ╚████╔╝ 
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚═══╝  
+```
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhruvjunejalk&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
+### Software Engineering · AI/ML · Backend Development · Cybersecurity
 
-<p align="center">
-  <b>Passionate about building scalable applications and security-focused systems to solve real-world problems.</b><br>
-  <i>“Securing the Future with AI-Driven Defense”</i>
-</p>
+<img src="https://komarev.com/ghpvc/?username=dhruvjunejalk&label=Profile+Views&color=0e75b6&style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/dhruvjunejalk?label=Followers&style=flat-square&color=0e75b6" />
 
----
+*"Securing the Future with AI-Driven Defense"*
 
-### 🚀 About Me
-
-- 🔭 **Currently building:** Scalable backend and security-focused applications.
-- 🌱 **Learning:** Continuously evolving by building and experimenting with real-world projects.
-- 🤝 **Looking for:** Internships, networking opportunities, and open-source collaborations.
-- 💬 **Ask me about:** Backend Development, FastAPI, AI/ML, Cybersecurity, and APIs.
-- ⚡ **Fun fact:** I enjoy combining AI with security systems to build intelligent defense solutions.
+</div>
 
 ---
 
-### 🏆 Achievements
+## `> whoami`
 
-- 🎯 **LeetCode:** Solved 180+ DSA problems.
-- ☁️ **Certifications:** 
-  - AWS Certified Cloud Practitioner
-  - SAP Certified Generative AI Developer
-  - Microsoft Azure Data Fundamentals
-
----
-
-### 💻 Tech Stack
-
-| Category | Tools |
-| :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,js,cpp" /> |
-| **Backend & Frontend** | <img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,express" /> |
-| **Databases & Cloud** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,aws,azure" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=docker,git,linux" /> |
+```yaml
+name: Dhruv Juneja
+role: Software Engineer & AI/ML Developer
+focus:
+  - Scalable backend systems
+  - Security-focused applications
+  - AI × Cybersecurity intersections
+currently_building: Intelligent, defense-first backend architecture
+looking_for: [ Internships, Open-source collabs, Networking ]
+ask_me_about: [ FastAPI, AI/ML, Cybersecurity, APIs, Backend ]
+fun_fact: I combine AI with security systems to build intelligent defense solutions
+```
 
 ---
 
-### 📈 GitHub Stats
+## `> certifications --list`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvjunejalk&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvjunejalk&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvjunejalk&theme=tokyonight&area=true" width="100%" alt="Activity Graph" />
-</p>
+| Badge | Certification |
+|:---:|:---|
+| ☁️ | **AWS Certified Cloud Practitioner** |
+| 🤖 | **SAP Certified Generative AI Developer** |
+| 📊 | **Microsoft Azure Data Fundamentals** |
+| 🧩 | **LeetCode** — 180+ DSA problems solved |
 
 ---
 
-### 🌐 Connect With Me
+## `> tech-stack --verbose`
 
-<p align="left">
-  <a href="https://linkedin.com/in/dhruvjuneja100" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/dhruvjunejalk/" target="blank">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="35" alt="LeetCode" />
-  </a>
-  <a href="mailto:dhruvjunejalk@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
-  </a>
-</p>
+**Languages**
 
-<p align="center">
-  <br>
-  ⭐️ <i>Building secure, scalable, and impactful software solutions.</i>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Backend & Frontend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Databases & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## `> github-stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dhruvjunejalk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="175" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvjunejalk&theme=tokyonight&hide_border=true" height="175" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvjunejalk&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" />
+
+</div>
+
+---
+
+## `> activity-graph`
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvjunejalk&theme=tokyo-night&area=true&hide_border=true" width="100%" />
+</div>
+
+---
+
+## `> connect --open`
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvjuneja100)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dhruvjunejalk/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvjunejalk@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*Building secure, scalable, and impactful software solutions.*
+
+`< always open to interesting ideas and collaborations />`
+
+</div>
