@@ -1,14 +1,10 @@
-![banner](./banner.svg)
+<img src="./banner.svg" width="100%" alt="Dhruv Juneja" />
 
 <br/>
 
-<div align="left">
-
 ```
-ACCESS GRANTED ─────────────────────────────────────────── CLEARANCE: LEVEL 5
+ACCESS GRANTED ─────────────────────────────────── CLEARANCE: LEVEL 5
 ```
-
-</div>
 
 ---
 
@@ -48,10 +44,7 @@ CREDENTIALS ──────────────────────
 ---
 
 ```
-SYSTEM CAPABILITIES ────────────────────────────────────────────────────────────
-```
-
-```
+SYSTEM CAPABILITIES ────────────────────────────────────────────────
   PYTHON        ━━━━━━━━━━━━━━━━━━━━░░░░   90%   primary language
   FASTAPI       ━━━━━━━━━━━━━━━━━━░░░░░░   85%   api backbone
   NODE.JS       ━━━━━━━━━━━━━━━━░░░░░░░░   78%   runtime
@@ -65,10 +58,7 @@ SYSTEM CAPABILITIES ────────────────────
 ---
 
 ```
-ACTIVE OBJECTIVES ──────────────────────────────────────────────────────────────
-```
-
-```
+ACTIVE OBJECTIVES ──────────────────────────────────────────────────
   ▸  AI-Driven Intrusion Detection System    ████████████████░░░░░░   72%
   ▸  Distributed Backend Architecture        █████████████░░░░░░░░░   60%
   ▸  Zero-Trust API Security Layer           ██████████░░░░░░░░░░░░   48%
@@ -78,7 +68,7 @@ ACTIVE OBJECTIVES ────────────────────�
 ---
 
 ```
-CONTRIBUTION TIMELINE ──────────────────────────────────────────────────────────
+CONTRIBUTION TIMELINE ──────────────────────────────────────────────
 ```
 
 [![Activity](https://github-readme-activity-graph.vercel.app/graph?username=dhruvjunejalk&theme=react-dark&area=true&hide_border=true&custom_title=%20&bg_color=0a0a0a&color=00ffcc&line=00ffcc&point=ffffff&area_color=003322)](https://github.com/dhruvjunejalk)
@@ -86,7 +76,7 @@ CONTRIBUTION TIMELINE ───────────────────�
 ---
 
 ```
-OPEN CHANNELS ──────────────────────────────────────────────────────────────────
+OPEN CHANNELS ──────────────────────────────────────────────────────
 ```
 
 <div align="left">
@@ -104,5 +94,5 @@ OPEN CHANNELS ──────────────────────
 <br/>
 
 ```
-─────────────────────────────────── END OF FILE ────────────────────────────────
+────────────────────────────── END OF FILE ─────────────────────────
 ```
