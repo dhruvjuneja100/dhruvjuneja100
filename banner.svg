@@ -1,0 +1,139 @@
+<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;display=swap');
+
+      .bg { fill: #0a0a0a; }
+      .grid-line { stroke: #1a1a1a; stroke-width: 1; }
+      .scan { fill: none; stroke: #00ffcc; stroke-width: 1.5; opacity: 0.15; }
+
+      .sys-text {
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 11px;
+        fill: #333;
+        letter-spacing: 3px;
+      }
+      .name {
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 68px;
+        font-weight: 700;
+        fill: #ffffff;
+        letter-spacing: -2px;
+      }
+      .dot { fill: #00ffcc; }
+      .role {
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 12px;
+        fill: #555;
+        letter-spacing: 6px;
+      }
+      .tag {
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 10px;
+        fill: #00ffcc;
+        letter-spacing: 2px;
+      }
+      .border-line { stroke: #1e1e1e; stroke-width: 1; fill: none; }
+      .accent-line { stroke: #00ffcc; stroke-width: 2; fill: none; }
+      .corner { stroke: #00ffcc; stroke-width: 1.5; fill: none; }
+      .progress-bg { fill: #111; }
+      .progress-fill { fill: #00ffcc; }
+      .blink {
+        animation: blink 1.2s step-end infinite;
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+      .fadein {
+        animation: fadein 2s ease forwards;
+      }
+      .fadein-slow {
+        animation: fadein 3s ease forwards;
+        opacity: 0;
+        animation-delay: 0.5s;
+      }
+      @keyframes fadein {
+        from { opacity: 0; }
+        to { opacity: 1; }
+      }
+      .scan-anim {
+        animation: scan-down 4s linear infinite;
+      }
+      @keyframes scan-down {
+        0%   { transform: translateY(-280px); opacity: 0.08; }
+        50%  { opacity: 0.14; }
+        100% { transform: translateY(560px); opacity: 0.08; }
+      }
+      .glitch {
+        animation: glitch 6s infinite;
+      }
+      @keyframes glitch {
+        0%, 95%, 100% { transform: translate(0); }
+        96% { transform: translate(-2px, 1px); }
+        97% { transform: translate(2px, -1px); }
+        98% { transform: translate(-1px, 0); }
+        99% { transform: translate(1px, 1px); }
+      }
+    </style>
+
+    <!-- Grid pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#111" stroke-width="0.5"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="280" class="bg"/>
+  <rect width="900" height="280" fill="url(#grid)" opacity="0.6"/>
+
+  <!-- Scanning line -->
+  <rect x="0" y="0" width="900" height="3" fill="#00ffcc" class="scan-anim"/>
+
+  <!-- Corner brackets -->
+  <path d="M 20 20 L 20 40 M 20 20 L 44 20" class="corner"/>
+  <path d="M 880 20 L 880 40 M 880 20 L 856 20" class="corner"/>
+  <path d="M 20 260 L 20 240 M 20 260 L 44 260" class="corner"/>
+  <path d="M 880 260 L 880 240 M 880 260 L 856 260" class="corner"/>
+
+  <!-- Top label -->
+  <text x="40" y="36" class="sys-text fadein">SYSTEM INITIALIZED</text>
+  <text x="760" y="36" class="sys-text fadein">2026 ©</text>
+
+  <!-- Vertical accent line left -->
+  <line x1="36" y1="50" x2="36" y2="230" stroke="#1a1a1a" stroke-width="1"/>
+  <line x1="36" y1="50" x2="36" y2="110" stroke="#00ffcc" stroke-width="1.5" opacity="0.6"/>
+
+  <!-- Main name -->
+  <text x="64" y="165" class="name glitch fadein">Dhruv<tspan class="dot">.</tspan></text>
+
+  <!-- Role line -->
+  <text x="65" y="197" class="role fadein-slow">BACKEND  ·  AI/ML  ·  CYBERSECURITY</text>
+
+  <!-- Right side — vertical info stack -->
+  <line x1="620" y1="60" x2="620" y2="220" stroke="#1e1e1e" stroke-width="1"/>
+
+  <text x="638" y="85" class="tag">[ OPEN TO CONTRIBUTE ]</text>
+  <line x1="638" y1="92" x2="860" y2="92" stroke="#1e1e1e" stroke-width="1"/>
+
+  <text x="638" y="115" class="sys-text" style="fill:#444">STACK</text>
+  <text x="638" y="132" class="sys-text" style="fill:#666; letter-spacing:2px">FASTAPI · NODE · REACT</text>
+  <text x="638" y="148" class="sys-text" style="fill:#666; letter-spacing:2px">POSTGRES · DOCKER · AWS</text>
+
+  <line x1="638" y1="160" x2="860" y2="160" stroke="#1e1e1e" stroke-width="1"/>
+
+  <text x="638" y="178" class="sys-text" style="fill:#444">CREDENTIALS</text>
+  <text x="638" y="194" class="sys-text" style="fill:#555; letter-spacing:1.5px">AWS · SAP GenAI · AZURE</text>
+
+
+
+  <!-- Bottom status bar -->
+  <rect x="0" y="263" width="900" height="17" fill="#0d0d0d"/>
+  <text x="20" y="275" class="sys-text" style="fill:#222; font-size:9px">▶ LOADING MODULES...</text>
+  <text x="180" y="275" class="sys-text" style="fill:#222; font-size:9px">ESTABLISHING SECURE CONNECTION...</text>
+  <text x="480" y="275" class="sys-text" style="fill:#222; font-size:9px">DECRYPTING ASSETS...</text>
+  <text x="760" y="275" class="sys-text" style="fill:#00ffcc; font-size:9px">PROGRESS 100%</text>
+
+  <!-- Cursor -->
+  <rect x="504" y="148" width="10" height="20" fill="#00ffcc" class="blink fadein"/>
+</svg>
