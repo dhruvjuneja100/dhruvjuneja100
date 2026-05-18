@@ -29,10 +29,10 @@ focus:
   - Scalable APIs
   - Threat Detection Systems
 
-currently_learning:
+currently_exploring:
   - Distributed Systems
   - MLOps
-  - Advanced Backend Architecture
+  - AI-powered Security Systems
 
 open_to:
   - Open Source Collaboration
@@ -88,9 +88,9 @@ open_to:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhruvjunejalk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhruvjunejalk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFC6&icon_color=00FFC6&text_color=FFFFFF" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvjunejalk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvjunejalk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFC6&text_color=FFFFFF" />
 
 </div>
 
