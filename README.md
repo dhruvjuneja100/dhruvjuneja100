@@ -85,13 +85,21 @@ open_to:
 
 ---
 
-# 📊 GitHub Stats
+# ⚡ GitHub Analytics
 
 <div align="center">
 
-![Dhruv's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dhruvjuneja100&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhruvjuneja100&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhruvjuneja100&layout=compact&theme=tokyonight)
+<img height="180em" src="https://streak-stats.demolab.com?user=dhruvjuneja100&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruvjuneja100&theme=tokyonight" />
 
 </div>
 
