@@ -13,6 +13,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=00FFC6)](https://leetcode.com/u/dhruvjunejalk/)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FFC6)](mailto:dhruvjunejalk@gmail.com)
 
+
 </div>
 
 ---
@@ -93,6 +94,7 @@ open_to:
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvjuneja100&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFC6&text_color=FFFFFF&cache_seconds=1800" />
 
 </div>
+
 
 
 ---
