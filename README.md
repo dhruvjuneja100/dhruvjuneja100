@@ -89,9 +89,9 @@ open_to:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dhruvjuneja100&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFC6&icon_color=00FFC6&text_color=FFFFFF&cache_seconds=1800" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhruvjuneja100&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffc6&icon_color=00ffc6&text_color=ffffff" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvjuneja100&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFC6&text_color=FFFFFF&cache_seconds=1800" />
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvjuneja100&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffc6&text_color=ffffff" />
 
 </div>
 
