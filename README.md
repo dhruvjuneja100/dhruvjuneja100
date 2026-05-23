@@ -85,15 +85,15 @@ open_to:
 
 ---
 
-# GitHub Stats
+# 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvjuneja100&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvjuneja100&layout=compact&theme=tokyonight" />
-</p>
+![Dhruv's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dhruvjuneja100&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhruvjuneja100&layout=compact&theme=tokyonight)
+
+</div>
 
 
 
